@@ -1,0 +1,15 @@
+The book is pretty alright i guess. I shall learn some good java core basics from it. I hope to finish it soon. 2-3 chapters in 2 days. I lack alot of basic java learning which i aim to fix.
+
+The first chapter is pretty much a filler chapter so i might just skim through it.
+
+
+what really is an api? An application programming interface.
+
+To me, an api is an endpoint which abstracts away a service. I still think it's a smaller definition. I will try to see a better definition.
+
+A better definition is a way to define an api is to say that it is a connection between computers or computer programs.
+It is a type of software interface, offering services to other pieces of software. 
+
+The first chapter just described java, how it was made, what were the goals and how it is better than cpp.
+
+I need to learn a few things like just in time compilation, how java code is interpreted, and what were the 12 hot buzzwords or whatever in java whitepaper.
