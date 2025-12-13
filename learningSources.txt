@@ -1,0 +1,5 @@
+I now have to think of the learning sources. I believe that having a conventional java book which teaches the basic depth of how java works is essential for me as of now. I can also refer to a youtube channel which will help me follow a structure. I also need to find problems to solve in java. Finding a book with lots of problems like 'let us c' would be definitely a very good thing.
+
+I think i will try to search a good source. I also need to have some faith in myself and that the steps I will take willbe good steps.
+
+so i downloaded this book, core java volume 1. lets give it a shot. 
