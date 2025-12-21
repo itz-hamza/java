@@ -1,0 +1,13 @@
+This chapter is about java development environment (20.12.2025)
+
+It is about how to install jdk, how to run java in IDEs, and how to use terminal to run java. I know all about these but i just want to ensure that there are no gaps in my knowledge.
+
+It is important to install a jdk, and if u are on linux, install a tar file.
+
+Don't choose a location which have spaces in the path name. for some reason spaces in the path name is not a good idea.
+
+There is also a documentation for java so i might try to install it
+
+it was a pretty boring chapter and i skipped most of it.
+
+

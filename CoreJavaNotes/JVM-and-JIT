@@ -1,0 +1,9 @@
+Here I am going to write about the core theoretical java concepts I am unfamiliar with. Something like JIT and JVM. What really is byte code? How it is interpreted. What really is interpretation of code and how different it is from compilation. I intend to spend a good amount of time learning this. THen I will head to second chapter.
+
+So another thing worth nothing is that java is first compiled to bytecode. This is a compilation process. But the jvm interprets the language. JIT makes this process faster. Now I need to understand a bit what interpretation really means in java.
+
+https://openjdk.org/groups/compiler/doc/compilation-overview/index.html
+
+this above is a helpful url to read the java compilation process. just putting it here
+
+

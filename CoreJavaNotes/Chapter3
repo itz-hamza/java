@@ -1,0 +1,45 @@
+Java is case sensitive!
+you always need to remember this fact.
+
+The main method always has to be 'main' not 'Main'
+Everything inside a java program must be inside a class
+I also need to have a look over access modifiers
+The standard naming convention: 
+-class names are nouns which start with an uppercase
+-we use CamelCase
+-the name of the file should be same as the public class
+-Each java file can only have one public class
+
+The main method, for extremely obvious reasons, should be public
+
+In java all methods, even main method resides in a class. 
+Everything in java has to be in a class!
+
+There is a third type of comment in java which goes like this /** */ 
+Apparently this is used to generate documentation.
+
+In java, there are basically 8 primitive types.
+
+4 of them are integer types such as int, long, short, byte.
+
+In java the range of int, or any datatype is not dependant on the implementation or machine java is running on.
+
+int -> 4 bytes
+short -> 2 bytes
+long -> 8 bytes
+byte -> 1 byte
+
+short and byte are usually used at low level.
+
+The range of all these types are generally fixed.
+
+Hex has prefix 0X, long have a suffix (l/L) and octals have suffix 0.
+
+We can also write numbers in binary with a prefix 0b or 0B.
+
+Moreover, we can have underscores in between the numbers as well. such as 100_000_000.
+
+
+Then there's float and double. float is 4 bytes and have 6-7 decimal digits. While double has 15 significant decimal digits. ALways a better idea to use double.
+
+All floats should have a suffix f or F. any decimal number without this suffix is considered to be a long
