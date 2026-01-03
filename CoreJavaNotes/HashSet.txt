@@ -1,0 +1,10 @@
+I was trying to solve a leetcode problem, 217(check duplicates) 
+In that, I was figuring out which data structure shall I be using, and in java, I saw that using a HashSet is an optimal thing.
+
+A hashset stores unique elements in an unordered manner.
+
+It has o(1) to search, insert, and removing.
+
+I have yet to figure out how it works, but apparently it uses some sort of hashing to index the data.
+
+
