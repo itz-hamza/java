@@ -1,5 +1,6 @@
 Neetcode
     Arrays and hashing
         Contains Duplicate (learned and solved it using HashSet) (Have to learn HashSet deeply)
-
-    A demo commit
+        Valid Anagram (learned GetOrDefault method)
+                      (learned about how we can do anAlphabet - 'a' to find its order in alphabets
+                      (solved this problem using a fixed sized char array and hashmap)
