@@ -4,3 +4,7 @@ Neetcode
         Valid Anagram (learned GetOrDefault method)
                       (learned about how we can do anAlphabet - 'a' to find its order in alphabets
                       (solved this problem using a fixed sized char array and hashmap)
+        2Sum Solved it using a nested loop O(n^2) with no extra space taken.
+             Can i solve it faster? If i sort it, i will lose the indexes. If i use a map, i can solve it in linear time, by adding all elements in the map as keys, and their index as values. Then, I will subtract target from them, to see if difference exists.
+
+             The dilemma i was having was, what if a duplicate exist. This will lead to a key already getting overwritten. However, the condition that there can only be one solution to this problem, solves this issue.
