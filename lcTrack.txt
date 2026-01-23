@@ -8,3 +8,6 @@ Neetcode
              Can i solve it faster? If i sort it, i will lose the indexes. If i use a map, i can solve it in linear time, by adding all elements in the map as keys, and their index as values. Then, I will subtract target from them, to see if difference exists.
 
              The dilemma i was having was, what if a duplicate exist. This will lead to a key already getting overwritten. However, the condition that there can only be one solution to this problem, solves this issue.
+
+        Group Anagrams
+            This was a problem i solved using hashmap. I sorted a string in linear time, made it a key in the map, and put it's original unsorted string as the value in the hashmap. 
