@@ -1,0 +1,16 @@
+Functional Interfaces
+
+    Functional Interfaces are interfaces with a single abstract function, a function without a body, and only with
+    a method signature and parameter/s. It is, as I understood, can be implemented by a lambda function.
+
+    Let's say we have a functional interface called Add. In this interface, let us say that we have an abstract
+    method called plus, which returns an integer and takes two integer arguments.
+
+    what we can do in our code is that we can have something like this : 
+        
+        Add add = (a,b)->{return a+b;};
+        
+        or 
+
+        Add add = (a,b)->return a+b;
+    This will mean that we are using a lambda to implement a functional interface.
